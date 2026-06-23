@@ -1,29 +1,62 @@
-header{
-    border: 10px solid lightblue; 
-    background-color: cyan;
-}
-nav{
-    border: 10px solid darkcyan;
-    background-color: orange;
+background-color: #0099d8;
     color: white;
+    padding: 10px;
+    background-clip: content-box;
+    border: 10px solid #a7d8e5;
+    margin: 10px;
 }
-main{
-    background-color: lightgray;
+
+nav {
+    background-color: #ee7d30;
+    color: white;
+    padding: 10px;
+    background-clip: content-box;
+    border: 10px solid #008ac2;
+    margin: 10px;
 }
-section{ 
-    border: 10px solid lightgray;
-    background-color: yellow;
+
+main {
+   background-color: #ecf0f1;
+    color: white;
+    padding: 10px;
+    background-clip: content-box;
+    border: 10px solid #e5e5e5;
+    margin: 10px;
+} 
+
+section {
+    background-color: #f7c337;
     color: black;
+    padding: 10px;
+    background-clip: content-box;
+    border: 10px solid #d4d8d8;
+    margin: 10px;
 }
-article{
-    background-color: green;
+
+article {
+    background-color: #00cb78;
     color: black;
+    padding: 10px;
+    background-clip: content-box;
+    border: 3px dotted #00cb78;
+    margin: 10px;
 }
-aside{
-    background-color: purple;
+
+aside {
+    background-color: #9e5bb2;
     color: white;
+    padding: 10px;
+    background-clip: content-box;
+    border: 10px solid #dadede;
+    margin: 10px;
 }
-footer{
-    background-color: black;
+
+footer {
+    text-align: center;
+    background-color: #293e4f;
     color: white;
+    padding: 20px;
+    background-clip: content-box;
+    border: 10px solid #dadede;
+    margin: 10px;
 }
