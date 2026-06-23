@@ -1,4 +1,5 @@
-background-color: #0099d8;
+    header {
+    background-color:#0099d8;
     color: white;
     padding: 10px;
     background-clip: content-box;
@@ -12,7 +13,7 @@ nav {
     padding: 10px;
     background-clip: content-box;
     border: 10px solid #008ac2;
-    margin: 10px;
+    margin: 10px;nd-colornd-colornd-colornd-color
 }
 
 main {
