@@ -2,6 +2,12 @@ p {
     font-family: Arial, sans-serif;
     font-size: 14px; 
 }
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
 }
 .quadrado_azul{
     background-color: blue;
